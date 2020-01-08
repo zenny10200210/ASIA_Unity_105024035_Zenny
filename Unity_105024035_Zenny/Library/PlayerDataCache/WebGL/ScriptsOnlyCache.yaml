@@ -13,7 +13,6 @@ ScriptsOnlyBuild:
     - UnityEditor.Graphs.AnimatorControllerTool
     UnityEditor.TestRunner.dll:
     - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
-    - UnityEditor.TestTools.TestRunner.TestListCacheData
   sceneClasses:
     "Assets/\u904A\u6232\u5834\u666F.unity":
     - Class: 1
@@ -65,19 +64,19 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 10060}
     - Class: 114
-      Script: {instanceID: 15906}
+      Script: {instanceID: 16488}
     - Class: 114
-      Script: {instanceID: 15908}
+      Script: {instanceID: 16490}
     - Class: 114
-      Script: {instanceID: 15910}
+      Script: {instanceID: 16492}
     - Class: 114
-      Script: {instanceID: 15912}
+      Script: {instanceID: 16494}
     - Class: 114
-      Script: {instanceID: 15914}
+      Script: {instanceID: 16496}
     - Class: 114
-      Script: {instanceID: 15916}
+      Script: {instanceID: 16498}
     - Class: 114
-      Script: {instanceID: 15918}
+      Script: {instanceID: 16500}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 124
@@ -528,4 +527,4 @@ ScriptsOnlyBuild:
   platform: 20
   scenePathNames:
   - "Assets/\u904A\u6232\u5834\u666F.unity"
-  playerPath: C:/Users/Vivobook/Documents/GitHub/ASIA_Unity_105024035_Zenny/Web
+  playerPath: C:/Users/Vivobook/Documents/GitHub/ASIA_Unity_105024035_Zenny/webtwo
